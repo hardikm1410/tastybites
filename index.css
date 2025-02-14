@@ -31,18 +31,12 @@ body {
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: var(--secondary); 
+    background: gray; 
     border-radius: 20px;
     transition: all ease 0.5s;
     
   }
   
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background:#f00 ; 
-    transition: all ease 0.5s;
-   
-  }
 
 /* Header Styles */
 .header {
