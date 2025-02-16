@@ -228,9 +228,9 @@ body {
 
 
 .foodgrid{
-    /* max-width: 1200px; */
-    /* overflow: hidden; */
-    /* margin: 0 auto; */
+     max-width: 1200px;
+    overflow: hidden; 
+     margin: 0 auto; 
     display: flex;
     transform:  0.3s ease-in-out;
     /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
@@ -796,9 +796,9 @@ body {
     
     
     .foodgrid{
-        /* max-width: 1200px; */
-        /* overflow: hidden; */
-        /* margin: 0 auto; */
+         max-width: 500px;
+         overflow: hidden; 
+        margin: 0 auto;
         display: flex;
         transform:  0.3s ease-in-out;
         /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
