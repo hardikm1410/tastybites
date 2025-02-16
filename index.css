@@ -868,6 +868,18 @@ body {
         height:500px;
       
     }
+
+     .foodgrid{
+    max-width: 1200px;
+    overflow: hidden;
+    margin: 0 auto;     
+    display: flex;
+    transform:  0.3s ease-in-out;
+    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+    gap: 1.5rem;  
+    padding-top: 2rem;
+    padding-bottom: 2.5rem;  
+}
     .scroll-button {
         display:none;
     }
